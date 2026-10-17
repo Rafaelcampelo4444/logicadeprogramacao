@@ -73,8 +73,75 @@
 
 #alterando uma string
 
-palavra = '6este'
+#palavra = 't' + palavra[1:]
+#print (palavra)
 
-palavra = 't' + palavra[:] 
+#contagem decaracteres
 
-print (palavra)
+#contagem = 'python'
+#print(len(contagem))
+
+#listas
+
+#lista1 = ['um', 'dois', 'três']
+
+#print(lista1)
+
+#Nas listas também existeem posicionamento dos elementos presentes nela 
+
+#print (lista1[1])
+
+#concatenação de listas 
+
+#lista2 = [1,2,3,4]
+#lista3 = [5,6,7,8]
+
+#print (lista2 + lista3)
+
+#alteração de elementos em uma lista
+
+#listaelementos = ['agua', 'vento', 'fogo']
+
+#listaelementos[1] = 'terra'
+#print (listaelementos)
+
+#ter como resultado um numero que é outro só que ao cubo, e ver quanto outro numero daria sendo elevado ao cubo
+
+#calculoaocubo = [1,2,3,4,5]
+
+#calculoaocubo.append ()
+#calculoaocubo.append (10**3)
+
+#print(calculoaocubo)
+
+#cachorro = ['pastoralemao', 'pincher', 'golden' ]
+
+#raça = cachorro
+
+#print(id(raça) == id(cachorro))
+
+#print (raça)
+
+#cachorro.append('caramelo')
+
+#print (raça)
+
+#manipulando listas
+
+#substituindo elementos
+
+#numeros = [1,2,3,4,5,6,7,8]
+
+#numeros [1:4] = [0,0,0]
+
+#print (numeros)
+
+#removendo numeros especificos
+
+#numeros [1:4] = []
+#print (numeros)
+
+#limpar lista
+
+#numeros[:] = []
+#print(numeros)
