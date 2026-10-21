@@ -145,3 +145,11 @@
 
 #numeros[:] = []
 #print(numeros)
+
+#listando itens da lista
+#animais = ['cachorro', 'gato', 'rato']
+#for animal in animais:
+#    print (animal)
+
+for animal in "cachorro":
+    print(animal)
